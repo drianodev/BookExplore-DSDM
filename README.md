@@ -1,12 +1,18 @@
 # Book Explorer
 
+[Demo](./img/Screen_Recording_20230718_155556_Expo%20Go.gif)
+
 ## Descrição
 
 O Book Explorer é um aplicativo móvel que permite explorar e buscar livros usando a API do Algolia. Ele exibe os resultados da busca em cards com informações sobre o título, autor e uma URL para mais detalhes. Além disso, é possível atribuir uma classificação (rating) para cada livro.
 
 ## Capturas de Tela
 
-Adicione aqui algumas capturas de tela do aplicativo para dar uma prévia visual do projeto.
+[Print 1](./img/Screenshot_20230718_154851_Expo%20Go.jpg)
+
+[Print 2](./img/Screenshot_20230718_154857_Expo%20Go.jpg)
+
+[Print 3](./img/Screenshot_20230718_154907_Expo%20Go.jpg)
 
 ## Instalação
 
