@@ -1,6 +1,6 @@
 # Book Explorer
 
-[Demo](./img/Screen_Recording_20230718_155556_Expo%20Go.gif)
+![Demo](./img/Screen_Recording_20230718_155556_Expo%20Go.gif)
 
 ## Descrição
 
@@ -8,11 +8,21 @@ O Book Explorer é um aplicativo móvel que permite explorar e buscar livros usa
 
 ## Capturas de Tela
 
-[Print 1](./img/Screenshot_20230718_154851_Expo%20Go.jpg)
-
-[Print 2](./img/Screenshot_20230718_154857_Expo%20Go.jpg)
-
-[Print 3](./img/Screenshot_20230718_154907_Expo%20Go.jpg)
+<table>
+  <tr>
+    <td>
+      <img src="./img/Screenshot_20230718_154851_Expo%20Go.jpg" alt="Print 1" style="max-width: 200px;" />
+    </td>
+    <td>
+      <img src="./img/Screenshot_20230718_154857_Expo%20Go.jpg" alt="Print 2" style="max-width: 200px;" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./img/Screenshot_20230718_154907_Expo%20Go.jpg" alt="Print 3" style="max-width: 200px;" />
+    </td>
+  </tr>
+</table>
 
 ## Instalação
 
