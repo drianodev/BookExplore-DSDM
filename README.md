@@ -69,7 +69,7 @@ Esse projeto foi desenvolvido durante o curso de Desenvolvimento de Software par
 
 - **Nome:** Adriano Mendes Lima
 - **Email:** adrianomendes661@gmail.com
-- **LinkedIn:** [LinkedIn]((https://www.linkedin.com/in/drianodev/))
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/drianodev/)
 - **GitHub:** [GitHub](https://github.com/drianodev)
 
 ---
